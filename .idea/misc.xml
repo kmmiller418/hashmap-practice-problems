@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/part08-Part08_10.IOweYou/pom.xml" />
+        <option value="$PROJECT_DIR$/part08-Part08_06.Nicknames/pom.xml" />
+        <option value="$PROJECT_DIR$/part08-Part08_07.Abbreviations/pom.xml" />
+        <option value="$PROJECT_DIR$/part08-Part08_08.PrintMeMyHashmap/pom.xml" />
+        <option value="$PROJECT_DIR$/part08-Part08_09.PrintMeAnotherHashmap/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK" />
+  <component name="SwUserDefinedSpecifications">
+    <option name="specTypeByUrl">
+      <map />
+    </option>
+  </component>
+</project>

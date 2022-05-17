@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hash Map Practice Problems.iml" filepath="$PROJECT_DIR$/.idea/Hash Map Practice Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part08-Part08_06.Nicknames/Part08_06.Nicknames.iml" filepath="$PROJECT_DIR$/part08-Part08_06.Nicknames/Part08_06.Nicknames.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part08-Part08_08.PrintMeMyHashmap/Part08_08.PrintMeMyHashmap.iml" filepath="$PROJECT_DIR$/part08-Part08_08.PrintMeMyHashmap/Part08_08.PrintMeMyHashmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part08-Part08_09.PrintMeAnotherHashmap/Part08_09.PrintMeAnotherHashmap.iml" filepath="$PROJECT_DIR$/part08-Part08_09.PrintMeAnotherHashmap/Part08_09.PrintMeAnotherHashmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part08-Part08_10.IOweYou/Part08_10.IOweYou.iml" filepath="$PROJECT_DIR$/part08-Part08_10.IOweYou/Part08_10.IOweYou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part08-Part08_07.Abbreviations/Part8_07.Abbreviations.iml" filepath="$PROJECT_DIR$/part08-Part08_07.Abbreviations/Part8_07.Abbreviations.iml" />
+    </modules>
+  </component>
+</project>
